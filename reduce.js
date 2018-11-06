@@ -76,6 +76,8 @@ const compose = (...fns) => (
 );
 
 //ES5
+
+//EXAMPLE NOT DONE YET
 function compose(fns) {
 
 
@@ -96,7 +98,7 @@ const curry = (fn) => (
 );
 
 //ES5
-
+//EXAMPLE NOT DONE YET
 
 
 //https://slides.com/meeple142/javascript-arrays-9#/11/12
@@ -110,3 +112,4 @@ const waterfall = (...promiseThunks) => (
 )
 
 //ES5
+//EXAMPLE NOT DONE YET
